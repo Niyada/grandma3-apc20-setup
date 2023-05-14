@@ -3,6 +3,8 @@
 ## Description
 Setup to control the GrandMA3 onPc software via an AKAI APC20 midi controller with live LED feedback.
 
+## Disclaimer
+Please keep in mind that this is a work in progress. If you have any issues, questions, ideas or find any bugs: do not hesitate to contact me or add an github issue.
 
 ## Chataigne
 The setup is based on the [Chataigne](https://benjamin.kuperberg.fr/chataigne/) software.
