@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="0.8.84.0">
+    <UserPlugin Name="APC 20 LED Feedback" Version="0.0.0.0" Path="/apc20">
+        <ComponentLua Name="APC 20 LED Feedback" FileName="apc-20-led-feedback.lua" />
+    </UserPlugin>
+</GMA3>
