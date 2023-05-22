@@ -3,6 +3,8 @@
 ## Description
 Setup to control the GrandMA3 onPc software via an AKAI APC20 midi controller with live LED feedback.
 
+[More info on the wiki.](https://github.com/Niyada/grandma3-apc20-setup/wiki)
+
 ## Disclaimer
 Please keep in mind that this is a work in progress. If you have any issues, questions, ideas or find any bugs: do not hesitate to contact me or add an github issue.
 
